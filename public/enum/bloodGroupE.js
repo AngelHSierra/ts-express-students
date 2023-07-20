@@ -11,4 +11,5 @@ var bloodGroupE;
     bloodGroupE["ABN"] = "AB-";
     bloodGroupE["OP"] = "O+";
     bloodGroupE["ON"] = "O-";
-})(bloodGroupE || (exports.bloodGroupE = bloodGroupE = {}));
+})(bloodGroupE = exports.bloodGroupE || (exports.bloodGroupE = {}));
+//# sourceMappingURL=bloodGroupE.js.map

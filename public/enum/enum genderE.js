@@ -5,4 +5,5 @@ var genderE;
 (function (genderE) {
     genderE["FEMALE"] = "female";
     genderE["MALE"] = "male";
-})(genderE || (exports.genderE = genderE = {}));
+})(genderE = exports.genderE || (exports.genderE = {}));
+//# sourceMappingURL=enum%20genderE.js.map

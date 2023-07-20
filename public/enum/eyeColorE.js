@@ -8,4 +8,5 @@ var eyeColorE;
     eyeColorE["GREEN"] = "Green";
     eyeColorE["AMBER"] = "Amber";
     eyeColorE["BROWN"] = "Brown";
-})(eyeColorE || (exports.eyeColorE = eyeColorE = {}));
+})(eyeColorE = exports.eyeColorE || (exports.eyeColorE = {}));
+//# sourceMappingURL=eyeColorE.js.map

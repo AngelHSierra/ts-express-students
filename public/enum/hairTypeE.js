@@ -8,4 +8,5 @@ var hairTypeE;
     hairTypeE["VERYCURLY"] = "very curly";
     hairTypeE["STRAIGHT"] = "straight";
     hairTypeE["WAVY"] = "wavy";
-})(hairTypeE || (exports.hairTypeE = hairTypeE = {}));
+})(hairTypeE = exports.hairTypeE || (exports.hairTypeE = {}));
+//# sourceMappingURL=hairTypeE.js.map

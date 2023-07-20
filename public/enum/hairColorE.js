@@ -9,4 +9,5 @@ var hairColorE;
     hairColorE["BROWN"] = "Brown";
     hairColorE["AUBURN"] = "aubrun";
     hairColorE["CHESTNUT"] = "chestnut";
-})(hairColorE || (exports.hairColorE = hairColorE = {}));
+})(hairColorE = exports.hairColorE || (exports.hairColorE = {}));
+//# sourceMappingURL=hairColorE.js.map
